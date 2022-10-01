@@ -1,0 +1,11 @@
+<svg width="236" height="30" viewBox="0 0 236 40"  xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <text x="20" y="40"
+        style = "font-family : Century Gothic;
+                 font-size : 32px;
+                 font-weight : bold;
+                 stroke : #2B1B17;
+                 stroke-width: 2;
+                 fill: #FFFFFF;"
+    >MarcN</text>
+</svg>
